@@ -1,2 +1,2 @@
 # Studey-Notes
-Summary Notes for Studying Data Science
+Study Notes of Data Science -Python /ML /DL /NLP etc.
